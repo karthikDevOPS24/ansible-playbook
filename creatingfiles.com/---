@@ -1,0 +1,9 @@
+  [A[C[C[C[C[C[C[C[C[ansible-book
+---
+- hostname: all
+  [A[C[C[C[C[C[C[C[C[C[C[C[D[s[A[C[C[B[C[C[C[C: all
+  tasks:
+    - name: creating a file
+      file:
+         [Dpath: /opt/devops
+        state: touch
